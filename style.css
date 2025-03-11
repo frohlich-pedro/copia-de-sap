@@ -1,0 +1,46 @@
+.navbar {
+    background-color: #9f9f9f;
+    display: flex;
+    padding: 0.3%;
+}
+
+.navButton {
+    width: 10%;
+    height: 3%;
+    font-size: 80%;
+}
+
+.content {
+    display: flex;
+    background-color: #9f9f9f;
+    border-style: solid;
+}
+
+.navigation {
+    border-style: solid;
+}
+
+.table {
+    display: flex;
+    padding: 10%;
+}
+
+.overview {
+    border-style: solid;
+}
+
+p {
+    padding: 1%;
+}
+
+.sla {
+    display: flex;
+}
+
+.color_table {
+    background-color: beige;
+}
+
+td {
+    background-color: white;
+}
